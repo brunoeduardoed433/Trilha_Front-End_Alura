@@ -26,6 +26,7 @@ body {
     font-size: 24px;
     font-weight: 600;
     color: #22D4FD;
+    text-decoration: none;
 }
 
 .apresentacao {
@@ -86,7 +87,7 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-.apresentacao__links__link:hover{
+.apresentacao__links__link:hover {
     background-color: #272727;
 }
 
@@ -99,4 +100,3 @@ body {
     font-size: 24px;
     font-weight: 400;
 }
-
